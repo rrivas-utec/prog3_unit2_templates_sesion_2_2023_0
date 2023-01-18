@@ -5,8 +5,6 @@
 #include <tuple>
 using namespace std;
 
-
-
 template <typename T, int sz>   // 2 parametros
                                 // - parametro tipo
                                 // - parametro no tipo
